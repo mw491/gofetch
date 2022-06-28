@@ -7,3 +7,4 @@ first add your `GOPATH` to your `PATH` environment variable. Gofetch will be ins
 Then install it with go install:
 `go install github.com/mw491/gofetch@latest`
 ![Time difference between gofetch and neofetch](screenshots/time_difference.png "a title")
+##### gofetch takes 17 milliseconds while neofetch takes SIX SECONDS! (gofetch left, neofetch right)
